@@ -29,13 +29,13 @@ body {
 .social-links-profile {
     font-size: var(--font-size);
     font-family: var(--font-family);
-    min-width: 20rem;
+    width: 24rem;
     background-color: var(--Dark-Grey);
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: center;
-    gap: 1.8rem;
+    gap: 2rem;
     padding: 2rem;
     border-radius: 0.6rem;
     color: var(--White);
@@ -44,7 +44,7 @@ body {
 .social-links-profile > img {
     aspect-ratio: 1 / 1;
     border-radius: 50%;
-    width: 4rem;
+    width: 5rem;
 }
 
 .profile-info {
